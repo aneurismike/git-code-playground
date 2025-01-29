@@ -1,3 +1,5 @@
-console.log('JS loaded')
-console.log('hello!')
-console.log('hola');
+let hobbies = [
+    "Concept Illustration",
+    "Computer Programming",
+    "Design"
+]
